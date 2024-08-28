@@ -1,0 +1,120 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	TutorialSword: {
+		DisplayName: Tutorial Sword
+		Tooltip: ""
+	}
+
+	TheKillerator: {
+		DisplayName: The Killerator
+		Tooltip: ""
+	}
+
+	CopperOrollerItem: {
+		DisplayName: Copper Oroller Item
+		Tooltip: ""
+	}
+
+	AppleCiderVinegar: {
+		DisplayName: Apple Cider Vinegar
+		Tooltip: ""
+	}
+
+	DudItem: {
+		DisplayName: Dud Item
+		Tooltip: ""
+	}
+
+	FruitFlyItem: {
+		DisplayName: Fruit Fly Item
+		Tooltip: ""
+	}
+
+	Fruitfly: {
+		DisplayName: Fruitfly
+		Tooltip: ""
+	}
+
+	NetBlade: {
+		DisplayName: Net Blade
+		Tooltip: ""
+	}
+
+	Slingshot: {
+		DisplayName: Slingshot
+		Tooltip: ""
+	}
+
+	Attractant: {
+		DisplayName: Attractant
+		Tooltip: ""
+	}
+
+	BugZapper: {
+		DisplayName: Bug Zapper
+		Tooltip: ""
+	}
+
+	CopperOrexcavator: {
+		DisplayName: Copper Orexcavator
+		Tooltip: ""
+	}
+
+	TrustySlingshot: {
+		DisplayName: Trusty Slingshot
+		Tooltip: ""
+	}
+
+	SwarmStaff: {
+		DisplayName: Swarm Staff
+		Tooltip: ""
+	}
+
+	PheremoneBaton: {
+		DisplayName: Pheremone Baton
+		Tooltip: ""
+	}
+
+	SlugThrower: {
+		DisplayName: Slug Thrower
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	TheFirstOne.DisplayName: The First One
+	ExampleZombieThief.DisplayName: Example Zombie Thief
+	NewSquirrel.DisplayName: New Squirrel
+	TestSnail.DisplayName: Test Snail
+	CopperOroller.DisplayName: Copper Oroller
+	FruitFly.DisplayName: Fruit Fly
+	StaticCloudHopper.DisplayName: Static Cloud Hopper
+}
+
+Prefixes: {
+	Potent.DisplayName: Potent
+	Rich.DisplayName: Rich
+	NutrientDense.DisplayName: Nutrient Dense
+	Swarming.DisplayName: Swarming
+	Tasty.DisplayName: Tasty
+}
+
+Projectiles: {
+	SlugBall.DisplayName: Slug Ball
+	Swarm1.DisplayName: Swarm1
+	Swarm.DisplayName: Swarm
+	PheremoneFlyer.DisplayName: Pheremone Flyer
+}
+
+Buffs: {
+	PheremoneFlyerBuff: {
+		DisplayName: Pheremone Flyer Buff
+		Description: Mods.TestRealm.Buffs.PheremoneFlyerBuff.Description
+	}
+
+	PumpedUpSlug: {
+		DisplayName: Pumped Up Slug
+		Description: Mods.TestRealm.Buffs.PumpedUpSlug.Description
+	}
+}

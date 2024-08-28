@@ -1,0 +1,3 @@
+displayName = Bugdom
+author = CSlug
+version = 0.1

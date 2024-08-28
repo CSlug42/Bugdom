@@ -1,0 +1,259 @@
+Mods: {
+	Bugdom: {
+		Buffs: {
+			PheremoneFlyerBuff: {
+				DisplayName: Pheremone Flyer Buff
+				Description: Mods.Bugdom.Buffs.PheremoneFlyerBuff.Description
+			}
+
+			PumpedUpSlug: {
+				DisplayName: Pumped Up Slug
+				Description: Mods.Bugdom.Buffs.PumpedUpSlug.Description
+			}
+
+			PheremoneFlyerBuff2: {
+				DisplayName: Pheremone Flyer Buff2
+				Description: Mods.Bugdom.Buffs.PheremoneFlyerBuff2.Description
+			}
+
+			Chambered: {
+				DisplayName: Chambered
+				Description: Mods.Bugdom.Buffs.Chambered.Description
+			}
+
+			WormMinionBuff: {
+				DisplayName: Worm Minion Buff
+				Description: Mods.Bugdom.Buffs.WormMinionBuff.Description
+			}
+
+			WormInfestedMinionBuff: {
+				DisplayName: Worm Infested Minion Buff
+				Description: Mods.Bugdom.Buffs.WormInfestedMinionBuff.Description
+			}
+
+			NightcrawlerMinionBuff: {
+				DisplayName: Nightcrawler Minion Buff
+				Description: Mods.Bugdom.Buffs.NightcrawlerMinionBuff.Description
+			}
+		}
+
+		Items: {
+			AppleCiderVinegar: {
+				DisplayName: Apple Cider Vinegar
+				Tooltip: ""
+			}
+
+			Attractant: {
+				DisplayName: Attractant
+				Tooltip: ""
+			}
+
+			BugZapper: {
+				DisplayName: Bug Zapper
+				Tooltip: ""
+			}
+
+			CopperOrollerItem: {
+				DisplayName: Copper Oroller Item
+				Tooltip: ""
+			}
+
+			Fruitfly: {
+				DisplayName: Fruitfly
+				Tooltip: ""
+			}
+
+			CopperOrexcavator: {
+				DisplayName: Copper Orexcavator
+				Tooltip: ""
+			}
+
+			NetBlade: {
+				DisplayName: Net Blade
+				Tooltip: ""
+			}
+
+			PheremoneBaton: {
+				DisplayName: Pheremone Baton
+				Tooltip: ""
+			}
+
+			TrustySlingshot: {
+				DisplayName: Trusty Slingshot
+				Tooltip: ""
+			}
+
+			SlugThrower: {
+				DisplayName: Slug Thrower
+				Tooltip: ""
+			}
+
+			SwarmStaff: {
+				DisplayName: Swarm Staff
+				Tooltip: ""
+			}
+
+			BugFragment: {
+				DisplayName: Bug Fragment
+				Tooltip: ""
+			}
+
+			HeartWeevilItem: {
+				DisplayName: Heart Weevil Item
+				Tooltip: ""
+			}
+
+			Cresicle: {
+				DisplayName: Cresicle
+				Tooltip: ""
+			}
+
+			SickleMembracidItem: {
+				DisplayName: Sickle Membracid Item
+				Tooltip: ""
+			}
+
+			PheremoneBaton2: {
+				DisplayName: Pheremone Baton2
+				Tooltip: ""
+			}
+
+			BoneInTheChamber: {
+				DisplayName: Bone In The Chamber
+				Tooltip: ""
+			}
+
+			Huppercutter: {
+				DisplayName: Huppercutter
+				Tooltip: ""
+			}
+
+			IronOrexcavator: {
+				DisplayName: Iron Orexcavator
+				Tooltip: ""
+			}
+
+			IronOrollerItem: {
+				DisplayName: Iron Oroller Item
+				Tooltip: ""
+			}
+
+			LeadOrexcavator: {
+				DisplayName: Lead Orexcavator
+				Tooltip: ""
+			}
+
+			LeadOrollerItem: {
+				DisplayName: Lead Oroller Item
+				Tooltip: ""
+			}
+
+			TinOrexcavator: {
+				DisplayName: Tin Orexcavator
+				Tooltip: ""
+			}
+
+			TinOrollerItem: {
+				DisplayName: Tin Oroller Item
+				Tooltip: ""
+			}
+
+			GoldOrexcavator: {
+				DisplayName: Gold Orexcavator
+				Tooltip: ""
+			}
+
+			GoldOrollerItem: {
+				DisplayName: Gold Oroller Item
+				Tooltip: ""
+			}
+
+			PlatinumOrexcavator: {
+				DisplayName: Platinum Orexcavator
+				Tooltip: ""
+			}
+
+			PlatinumOrollerItem: {
+				DisplayName: Platinum Oroller Item
+				Tooltip: ""
+			}
+
+			SilverOrexcavator: {
+				DisplayName: Silver Orexcavator
+				Tooltip: ""
+			}
+
+			SilverOrollerItem: {
+				DisplayName: Silver Oroller Item
+				Tooltip: ""
+			}
+
+			TungstenOrexcavator: {
+				DisplayName: Tungsten Orexcavator
+				Tooltip: ""
+			}
+
+			TungstenOrollerItem: {
+				DisplayName: Tungsten Oroller Item
+				Tooltip: ""
+			}
+
+			WormBaton: {
+				DisplayName: Worm Baton
+				Tooltip: ""
+			}
+
+			PlaceableMound: {
+				DisplayName: Placeable Mound
+				Tooltip: ""
+			}
+
+			TermiteQueenItem: {
+				DisplayName: Termite Queen Item
+				Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			CopperOroller.DisplayName: Copper Oroller
+			FruitFly.DisplayName: Fruit Fly
+			StaticCloudHopper.DisplayName: Static Cloud Hopper
+			FullMetalSlug.DisplayName: Full Metal Slug
+			HeartWeevil.DisplayName: Heart Weevil
+			TreeHopper.DisplayName: Tree Hopper
+			TinOroller.DisplayName: Tin Oroller
+			SickleMembracid.DisplayName: Sickle Membracid
+			BoneBug.DisplayName: Bone Bug
+			CabinBug.DisplayName: Cabin Bug
+			CosmicRingworm.DisplayName: Cosmic Ringworm
+			IronOroller.DisplayName: Iron Oroller
+			LeadOroller.DisplayName: Lead Oroller
+			GoldOroller.DisplayName: Gold Oroller
+			PlatinumOroller.DisplayName: Platinum Oroller
+			SilverOroller.DisplayName: Silver Oroller
+			TungstenOroller.DisplayName: Tungsten Oroller
+			TermiteQueen.DisplayName: Termite Queen
+		}
+
+		Prefixes: {
+			NutrientDense.DisplayName: Nutrient Dense
+			Potent.DisplayName: Potent
+			Rich.DisplayName: Rich
+			Swarming.DisplayName: Swarming
+			Tasty.DisplayName: Tasty
+		}
+
+		Projectiles: {
+			PheremoneFlyer.DisplayName: Pheremone Flyer
+			SlugBall.DisplayName: Slug Ball
+			FullMetalSlugBall.DisplayName: Full Metal Slug Ball
+			Swarm.DisplayName: Swarm
+			MiniSickle.DisplayName: Mini Sickle
+			PheremoneFlyer2.DisplayName: Pheremone Flyer2
+			HopperAura.DisplayName: Hopper Aura
+			WormMinion.DisplayName: Worm Minion
+			WormInfestedMinion.DisplayName: Worm Infested Minion
+			NightcrawlerMinion.DisplayName: Nightcrawler Minion
+		}
+	}
+}
